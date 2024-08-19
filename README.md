@@ -24,6 +24,8 @@ https://www.youtube.com/watch?v=_uvWURgyNB8&feature=youtu.be <br><br>
 사전에 ‘Two’로 학습시킨 손동작이 인식되면 Blur 모드를 작동 <br>
 카메라 화면 전체에 Blur 처리를 한 후 MediaPipe 라이브러리를 사용하여 사람을 인식하고, Segmentation 기능을 사용하여 사람의 영역만 추출 후 해당 영역에만 Blur 처리를 해제<br>
 만약 다시 ‘Two’라는 동작이 인식된다면 Blur 모드 해제 <br><br>
+![image](https://github.com/user-attachments/assets/92e6835f-555a-47df-ac3b-b815b8c84abc)
+<br><br>
 
 
 코드와 보고서 첨부되어있습니다.

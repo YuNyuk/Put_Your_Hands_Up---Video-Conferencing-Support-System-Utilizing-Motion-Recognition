@@ -9,6 +9,10 @@
 코로나 이후 회사 회의나 대학교 강의 등에서 비 대면 화상회의가 급증했다. 이 때 대다수의 참여자가 재택에서 화상회의에 참여함에 따라 사생활 유출 문제도 커졌다.
 다양한 사생활 보호 기능을 간단한 손동작만으로 동작할 수 있게 하여 사생활 유출 문제를 최소화한다.<br><br>
 
+## 기술 스택
+![image](https://github.com/user-attachments/assets/6c3d9f70-c52c-4304-8741-0db11132211e) <br><br>
+
+
 ## 작품 구성도
 ![image](https://github.com/user-attachments/assets/220e185d-a880-4669-9fb7-d28e07649200) <br><br>
 
